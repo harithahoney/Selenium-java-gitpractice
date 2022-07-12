@@ -1,4 +1,6 @@
+
 test-output/ 
 target/
 .settings/
 pom.xml
+dummyfile2.txt/
